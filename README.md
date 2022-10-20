@@ -11,19 +11,4 @@
 List of each object and how it was accquired.
 Walls and floor: Unity basic shape - Cube
 Speaker Stands: Unity basic shape - Cube and cylinder
-3 kinds of backpacks
-Blackboard
-Water Bottle
-Clock
-Desks and Chairs
-Door
-Guitar
-Maracas
-Pencil
-The female student
-Piano
-Speaker
-Piano Stool
-Triangle (as an instrument)
-Window
-These are all free models accquired either from TurboSquid or CGTrader
+3 kinds of backpacks, Blackboard, Water Bottle, Clock, Desks and Chairs, Door, Guitar, Maracas, Pencil, The female student, Piano, Speaker, Piano Stool, Triangle (as an instrument), Window: These are all free models accquired either from TurboSquid or CGTrader
