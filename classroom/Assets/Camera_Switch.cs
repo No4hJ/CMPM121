@@ -25,7 +25,7 @@ public class Camera_Switch : MonoBehaviour
         EnableCamera(click);
         click++;
 
-        if(click > 3)
+        if(click > 1)
         {
             click = 0;
         }
