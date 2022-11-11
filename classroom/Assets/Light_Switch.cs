@@ -27,7 +27,12 @@ public class Light_Switch : MonoBehaviour
             click ++;
         }
         else if (click == 1){
+            Lights.ForEach(light => light.GetComponent<Light>().intensity /= 2);
+            click ++;
+        }
+        else if (click == 2){
             Lights.ForEach(light => light.enabled = false);
+            Lights.ForEach(light => light.GetComponent<Light>().intensity *= 2);
             click = 0;
         }
 
